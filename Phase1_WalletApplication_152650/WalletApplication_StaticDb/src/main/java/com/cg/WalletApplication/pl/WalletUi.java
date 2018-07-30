@@ -57,6 +57,7 @@ public class WalletUi {
 				throw new BankException(IBankException.inputMismatch);
 			} catch (BankException e) {
 				System.out.println(e.getMessage());
+				scanner.next();
 			}
 		}
 	}
