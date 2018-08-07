@@ -1,1 +1,2 @@
 # WalletApplicationPhase1_152650
+Phase1_WalletApplication_152650/WalletApplication_StaticDb is implemented using static collections(HashMap)
